@@ -113,9 +113,7 @@ Standalone auth system: registration, login, OTP email verification, forgot/rese
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshad-Yewale&show_icons=true&theme=transparent&hide_border=true&title_color=9C2B2B&icon_color=9C2B2B&text_color=4D4126)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshad-Yewale&theme=transparent&hide_border=true&ring=9C2B2B&fire=9C2B2B&currStreakLabel=4D4126)
+![GitHub Streak](https://streak-stats.demolab.com?user=Harshad-Yewale&theme=transparent&hide_border=true&ring=9C2B2B&fire=9C2B2B&currStreakLabel=4D4126)
 
 </div>
 
